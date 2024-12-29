@@ -45,7 +45,7 @@ Facilitar el comercio y la distribución de productos en Bolivia, ofreciendo sol
 1. **Registro**: Crea una cuenta en Entregas.com.bo.
 2. **Gestión de Envíos**: Registra tus pedidos y selecciona las opciones de transporte.
 3. **Seguimiento**: Rastrea tus envíos en tiempo real desde cualquier dispositivo.
-4. **Entrega Exitosa**: Notificaciones y soporte hasta que el producto llegue a su destino.aa
+4. **Entrega Exitosa**: Notificaciones y soporte hasta que el producto llegue a su destino.
 
 ---
 
